@@ -1,0 +1,54 @@
+.update-container{
+    width:100%;
+    height: 100vh;
+    position: absolute;
+    top:0;
+    background-color: rgba(0, 0, 0, 0.158); 
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+.form-row-1{
+    margin-right: 10px;
+}
+.select{
+    width:100%
+
+}
+.select-margin{
+    margin-right: 10px;
+}
+.cont4in{
+    width: 50%;
+}
+.btn-grp-update{
+    background-color: white;
+    color: rgb(9, 168, 81);
+    border: 1px solid rgb(9, 168, 81);
+}
+.btn-grp-update:hover{
+    background-color: white;
+    color: rgb(43, 236, 130);
+    border: 1px solid rgb(9, 168, 81);
+}
+.lablename{
+    display: flex;
+    flex-direction: column;
+}
+.btn-grp-update:focus{
+    background-color: rgb(9, 168, 81);
+    color: white;
+    border: 1px solid rgb(9, 168, 81);
+}
+
+
+.btn-grp-del{
+    background-color: rgb(9, 168, 81);
+    color: white;
+    border: 1px solid rgb(9, 168, 81);
+}
+.btn-grp-del:focus{
+    background-color: white;
+    color: rgb(9, 168, 81);
+    border: 1px solid rgb(9, 168, 81);
+}
