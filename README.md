@@ -8,6 +8,19 @@ A simple employee records app. The React front end shows employees in a table an
 - Update an existing employee
 - Delete an employee
 
+## Screenshots
+
+The employees below are made-up sample data.
+
+**Employee list**
+
+![Employee list](docs/screenshots/list.png)
+
+**Add employee**
+
+![Add employee form](docs/screenshots/add.png)
+
+
 ## Tech stack
 - Backend: Java, Spring Boot, Spring Data JPA, PostgreSQL
 - Frontend: React 18, Vite, Axios, CSS
