@@ -56,3 +56,5 @@ The client calls `http://localhost:8080` directly.
 
 ## Notes
 It is plain CRUD. There is no login, validation, search or paging, and no tests beyond the generated one. The API URL is hard-coded in the client. Next I would add validation and move the URL and database settings into environment variables.
+
+Database settings come from `DB_URL`, `DB_USER` and `DB_PASSWORD` in your environment.
