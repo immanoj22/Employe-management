@@ -1,5 +1,7 @@
 # Employe-management
 
+[![build](https://github.com/immanoj22/Employe-management/actions/workflows/build.yml/badge.svg)](https://github.com/immanoj22/Employe-management/actions/workflows/build.yml)
+
 A simple employee records app. The React front end shows employees in a table and lets you add, edit and delete them. The Spring Boot API stores them in PostgreSQL. I built it as a CRUD practice project.
 
 ## What it does
